@@ -1,0 +1,6 @@
+github.com/riftbit/go-systray v1.0.2 h1:8cT4UEREfN3NxpErxHC/7G8cR/t/hAiO/nZng5pmSAQ=
+github.com/riftbit/go-systray v1.0.2/go.mod h1:4Gw5HqutBhqXW3sRq41ggHZZqC1k/KOU4dix6G6frj0=
+github.com/webview/webview v0.0.0-20230210061304-7b40e46d97e9 h1:SPyWnfToUom3xNh3dKGkq1ZV7pw+VSWDcfVrUM1nRWs=
+github.com/webview/webview v0.0.0-20230210061304-7b40e46d97e9/go.mod h1:rpXAuuHgyEJb6kXcXldlkOjU6y4x+YcASKKXJNUhh0Y=
+golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa h1:KIDDMLT1O0Nr7TSxp8xM5tJcdn8tgyAONntO829og1M=
+golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
