@@ -27,6 +27,15 @@ func Message(c unsafe.Pointer, text, caption string) {
 		fmt.Println("点击NO")
 	}
 }
+func ShowWindow(c unsafe.Pointer) {
+	handle := win.HWND(uintptr(c))
+	win.ShowWindow(handle, win.SW_SHOW)
+}
+
+func HideWindow(c unsafe.Pointer) {
+	handle := win.HWND(uintptr(c))
+	win.ShowWindow(handle, win.SW_HIDE)
+}
 func MoveToCenter(c unsafe.Pointer) {
 	handle := win.HWND(uintptr(c))
 	var width int32 = 0
